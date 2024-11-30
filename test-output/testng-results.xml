@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[launching chromeBrowser]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-11-30T21:01:14 IST" name="Default suite" finished-at="2024-11-30T21:02:05 IST" duration-ms="51347">
+    <groups>
+    </groups>
+    <test started-at="2024-11-30T21:01:14 IST" name="Default test" finished-at="2024-11-30T21:02:05 IST" duration-ms="51347">
+      <class name="com.kennect.qa.test.PatientTest">
+        <test-method is-config="true" signature="openingBrowser()[pri:0, instance:com.kennect.qa.test.PatientTest@5677323c]" started-at="2024-11-30T21:01:14 IST" name="openingBrowser" finished-at="2024-11-30T21:01:48 IST" duration-ms="34371" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[launching chromeBrowser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openingBrowser -->
+        <test-method signature="validatePatientTest()[pri:0, instance:com.kennect.qa.test.PatientTest@5677323c]" started-at="2024-11-30T21:01:49 IST" name="validatePatientTest" finished-at="2024-11-30T21:02:05 IST" duration-ms="16866" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePatientTest -->
+      </class> <!-- com.kennect.qa.test.PatientTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
